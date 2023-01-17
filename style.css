@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{margin: 0px;
+ padding: 0px;}
+
+#container{
+  background:white ;
+  width: 1000px;
+  height: 1000px;
+  margin: auto;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+}
+
+
+
+body{
+	color: black;
+}
+
+
+#main{height: 705px;
+      padding: 30px;}
+
+
+
+.logo{
+  width: 350px;
+  height: 150px;
+  float: center;
+  padding-left: 300px;
+}
+
+.columns section {
+box-sizing: border-box;
+display: inline-block;
+text-align: center;
+padding-left: 60px;
+}
+
+column_1-2{
+  width: 50%;
+}
+
+img{
+  width:350px;
+  height:200px;
+}
